@@ -26,4 +26,4 @@ Making the website.
 
 #### What problems, if any, have you encountered?
 
-Non so far.
+None so far.
